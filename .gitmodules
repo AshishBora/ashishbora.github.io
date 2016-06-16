@@ -1,0 +1,3 @@
+[submodule "NoVery"]
+	path = NoVery
+	url = git@github.com:AshishBora/NoVery.git
