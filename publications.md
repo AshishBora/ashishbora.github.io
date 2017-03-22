@@ -6,16 +6,26 @@ permalink: /publications/
 
 
 **Compressed Sensing using Generative Models**
-[[Paper]] [paper3] [[arXiv]][arXiv3] [[Code]][code3] \\
+[[Paper]] [paper4] [[arXiv]][arXiv4] [[Code]][code4] \\
 Ashish Bora, Ajil Jalal, Eric Price, Alex Dimakis \\
 arXiv preprint, 2017
 
-[paper3]: /assets/csgm/paper.pdf
-[arXiv3]: https://arxiv.org/abs/1703.03208
-[code3]: https://github.com/AshishBora/csgm
+[paper4]: /assets/csgm/paper.pdf
+[arXiv4]: https://arxiv.org/abs/1703.03208
+[code4]: https://github.com/AshishBora/csgm
+
+
+**Graphical RNN models**
+[[Paper]] [paper3] [[arXiv]][arXiv3] \\
+Ashish Bora, Sugato Basu, Joydeep Ghosh \\
+arXiv preprint, 2016
+
+[paper3]: /assets/gRNN/paper.pdf
+[arXiv3]: https://arxiv.org/abs/1612.05054
+
 
 **Edge conductance estimation using MCMC**
-[[Paper]] [paper2] [[Blogpost]][blog2] [[Slides]][slides2] [[Poster]][poster2] \\
+[[Paper]] [paper2] [[Blogpost]][blog2] [[Slides]][slides2] [[Poster]][poster2]\\
 Ashish Bora, Vivek Borkar, Dinesh Garg, Rajesh Sundaresan \\
 Allerton 2016
 
