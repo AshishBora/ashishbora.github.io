@@ -10,5 +10,5 @@ This page is under construction.
 
 In the meantime, check out the [paper][paper], and [code][code].
 
-[paper]: /assets/csgm/paper.pdf
+[paper]: {{ "/assets/csgm/paper.pdf" | absolute_url }}
 [code]: https://github.com/AshishBora/csgm

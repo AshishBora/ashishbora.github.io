@@ -20,8 +20,8 @@ To adress these problems, we propose an Markov Chain Monte Carlo ([MCMC](https:/
 
 We provide a sample complexity analysis and present simulation experiments on large datasets supporting the theoretical observations.
 
-[paper]: /assets/edge_conductance/paper.pdf
-[slides]: /assets/edge_conductance/presentation.pdf
-[poster]: /assets/edge_conductance/poster.pdf
+[paper]: {{ "/assets/edge_conductance/paper.pdf" | absolute_url }}
+[slides]: {{ "/assets/edge_conductance/presentation.pdf" | absolute_url }}
+[poster]: {{ "/assets/edge_conductance/poster.pdf" | absolute_url }}
 
 <!-- [code]: -->
