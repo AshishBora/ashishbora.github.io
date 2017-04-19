@@ -8,7 +8,7 @@ permalink: /about/
 
 Hey There!
 
-I am interested in building theory to understand Machine Learning and tools to apply it.
+I am interested in building theory and tools to understand and apply Machine Learning.
 
 Currently, I am a second year graduate student in the Computer Science Department at University of Texas, Austin. 
 
