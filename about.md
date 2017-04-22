@@ -18,4 +18,4 @@ Prior to that, I completed my undergraduate in Electrical Engineering (Hons.) wi
 
 [resume]: {{ "/assets/acads/resume.pdf" | absolute_url }}
 [cv]: {{ "/assets/acads/cv.pdf" | absolute_url }}
-[transcript]: {{ "//assets/acads/transcript.pdf" | absolute_url }}
+[transcript]: {{ "/assets/acads/transcript.pdf" | absolute_url }}
