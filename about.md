@@ -10,7 +10,7 @@ Hey There!
 
 I am interested in building theory and tools to understand and apply Machine Learning.
 
-Currently, I am a second year graduate student in the Computer Science Department at University of Texas, Austin. 
+Currently, I am a third year graduate student in the Computer Science Department at University of Texas, Austin.
 
 Prior to that, I completed my undergraduate in Electrical Engineering (Hons.) with minor in Computer Science at Indian Institute of Technology Bombay.
 
