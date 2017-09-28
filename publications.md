@@ -8,7 +8,7 @@ permalink: /publications/
 **Compressed Sensing using Generative Models**
 [[Paper]] [paper4] [[arXiv]][arXiv4] [[Code]][code4] \\
 Ashish Bora, Ajil Jalal, Eric Price, Alex Dimakis \\
-arXiv preprint, 2017
+ICML 2017
 
 [paper4]: /assets/csgm/paper.pdf
 [arXiv4]: https://arxiv.org/abs/1703.03208
@@ -30,7 +30,7 @@ Ashish Bora, Vivek Borkar, Dinesh Garg, Rajesh Sundaresan \\
 Allerton 2016
 
 [paper2]: /assets/edge_conductance/paper.pdf
-[blog2]: {% post_url 2015-12-05-edge-conductance-mcmc %}
+[blog2]: {% post_url research/2015-12-05-edge-conductance-mcmc %}
 [slides2]: /assets/edge_conductance/presentation.pdf
 [poster2]: /assets/edge_conductance/poster.pdf
 
@@ -39,5 +39,5 @@ Ashish Bora, Arjun Rao, and Bipin Rajendran \\
 IJCNN 2014
 
 [paper1]: /assets/contour_tracking/paper.pdf
-[blog1]: {% post_url 2014-11-10-bio-inspired-contour-tracking %}
+[blog1]: {% post_url research/2014-11-10-bio-inspired-contour-tracking %}
 [poster1]: /assets/contour_tracking/poster.pdf
