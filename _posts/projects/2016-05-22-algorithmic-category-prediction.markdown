@@ -16,11 +16,14 @@ Algorithmic programming contests often involve constructing and implementing an 
 
 As an auxiliary task, we also try to predict the difficulty of a problem given its natural language description. 
 
-In order to solve this problem, we gathered data from two popular programming challenge websites [codeforces.com][http://codeforces.com/] and [codechef.com][https://www.codechef.com/]. Our first dataset has about 2000 problems with natural language descriptions in English and multiple category tags per problem out of the 30 possible tags. The second dataset has about 5000 problems with labels corresponsing to 5 difficulty levels.
+In order to solve this problem, we gathered data from two popular programming challenge websites [codeforces.com][1] and [codechef.com][2]. Our first dataset has about 2000 problems with natural language descriptions in English and multiple category tags per problem out of the 30 possible tags. The second dataset has about 5000 problems with labels corresponsing to 5 difficulty levels.
 
 For our classifier, we used hashing, bag of words and word2vec word embeddings for feature extraction. With these features, we tried a few baseline approaches -- Logistic Regression, Random Forest, XGBoost. To make better use fo the temporal aspect of the problem, we also trained a Recurrent Neural Network with Long Short Term Memory (LSTM) units.
 
 We also propose and evaluate a transfer learning approach on these tasks.
+
+[1]: http://codeforces.com/
+[2]: https://www.codechef.com/
 
 [report]: {{ "/assets/projects/nlp/report.pdf" | absolute_url }}
 [code]: https://github.com/AshishBora/nlp-project
