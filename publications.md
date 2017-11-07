@@ -6,13 +6,15 @@ permalink: /publications/
 
 
 **Compressed Sensing using Generative Models**
-[[Paper]] [paper4] [[arXiv]][arXiv4] [[Code]][code4] \\
+[[Paper]] [paper4] [[arXiv]][arXiv4] [[Code]][code4] [[Slides]][slides4] [[Poster]][poster4] \\
 Ashish Bora, Ajil Jalal, Eric Price, Alex Dimakis \\
 ICML 2017
 
 [paper4]: /assets/csgm/paper.pdf
 [arXiv4]: https://arxiv.org/abs/1703.03208
 [code4]: https://github.com/AshishBora/csgm
+[slides4]: {{ "/assets/csgm/slides_google_ashish.pdf" | absolute_url }}
+[poster4]: {{ "/assets/csgm/poster_icml.pdf" | absolute_url }}
 
 
 **Graphical RNN models**
